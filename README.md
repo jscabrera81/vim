@@ -8,3 +8,8 @@ G: Mover el cursor al final del archivo
 # Para buscar una palabra en todo el documento y resaltarla
 - :set hlsearch
 - * para saltar a la siguiente aparicion de la palabra y # para la anterior
+
+# copiar y pegar 
+
+1. :%y en el archivo que se esta copiando Yanked
+2. p en el archivo nuevo
